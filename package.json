@@ -1,0 +1,22 @@
+{
+  "name": "puzzle-fatores-primos-tdd",
+  "version": "1.0.0",
+  "description": "Puzzle de Geração de Fatores Primos e TDD",
+  "main": "fatores_primos.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bosamatheus/puzzle-fatores-primos-tdd.git"
+  },
+  "author": "Matheus Bosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bosamatheus/puzzle-fatores-primos-tdd/issues"
+  },
+  "homepage": "https://github.com/bosamatheus/puzzle-fatores-primos-tdd#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
